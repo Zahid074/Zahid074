@@ -15,16 +15,18 @@
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/md-zahid-hossain-1806022b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Zahid074"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="http://zahid-protfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+&nbsp;
+<a href="https://www.kaggle.com/mohammadzahidhossain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 <br/><br/>
 
 <!-- META BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00D4FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Zahid074&label=Profile+Views&color=00D4FF&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00D4FF" />
+<img src="https://img.shields.io/github/followers/Zahid074?label=Followers&style=flat-square&color=00D4FF" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20ML-blueviolet?style=flat-square" />
 &nbsp;
@@ -68,7 +70,7 @@
 |:---------:|:------:|
 | **Stack** | `Flutter` · `Node.js` · `PostgreSQL` · `Firebase FCM` · `Socket.IO` · `Google Maps API` |
 | **Highlights** | CBF + Contextual Bandit ride recommendation, real-time live tracking, WebRTC calling, promo/offer system |
-| **Repo** | [github.com/YOUR_GITHUB_USERNAME/uniride](https://github.com/YOUR_GITHUB_USERNAME/uniride) |
+| **Repo** | [github.com/Sheikh-M-Zahid/UniRide_App](https://github.com/Sheikh-M-Zahid/UniRide_App) |
 
 ---
 
@@ -79,7 +81,7 @@
 |:---------:|:------:|
 | **Stack** | `Laravel 11` · `Flask` · `PyTorch/CNN` · `PostgreSQL (Supabase)` · `Azure App Service` |
 | **Highlights** | Crop & fertilizer recommendation, price forecasting, CNN pest detection trained on PlantVillage (42k images, 38 classes) |
-| **Repo** | [github.com/YOUR_GITHUB_USERNAME/agri-advisory](https://github.com/YOUR_GITHUB_USERNAME/agri-advisory) |
+| **Repo** | [github.com/Marjan15H/Agri_Advisory](https://github.com/Marjan15H/Agri_Advisory) |
 
 ---
 
@@ -90,7 +92,7 @@
 |:---------:|:------:|
 | **Stack** | `YOLOv8/v10` · `ByteTrack` · `PaddleOCR/EasyOCR` · `FastAPI` |
 | **Highlights** | Homography-based speed estimation, color-coded violation detection, ANPR on overspeeding vehicles, traffic density heatmap |
-| **Repo** | [github.com/YOUR_GITHUB_USERNAME/traffic-management-system](https://github.com/YOUR_GITHUB_USERNAME/traffic-management-system) |
+| **Status** | 🔄 In Development |
 
 ---
 
@@ -101,7 +103,7 @@
 |:---------:|:------:|
 | **Stack** | `Node.js/Express` · `React/Vite` · `Neon PostgreSQL` |
 | **Highlights** | 3-stage email notifications (24h/2h/lineup), live favourite-club ticker, football-data.org API |
-| **Repo** | [github.com/YOUR_GITHUB_USERNAME/football-live-matchday](https://github.com/YOUR_GITHUB_USERNAME/football-live-matchday) |
+| **Repo** | [github.com/Zahid074/football-live-matchday](https://github.com/Zahid074/football-live-matchday) |
 
 ---
 
@@ -112,7 +114,7 @@
 |:---------:|:------:|
 | **Stack** | `HTML` · `CSS` · `JavaScript` |
 | **Highlights** | Dark/light theme, ghost race mode, WPM trend chart, streaks, leaderboard |
-| **Repo** | [github.com/YOUR_GITHUB_USERNAME/speedtype](https://github.com/YOUR_GITHUB_USERNAME/speedtype) |
+| **Repo** | [github.com/Zahid074/speedtype](https://github.com/Zahid074/speedtype) |
 
 ---
 
@@ -151,19 +153,19 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Zahid074&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zahid074&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" />
 
 <br/><br/>
 
-<!-- Snake Game (needs the workflow set up first) -->
+<!-- Snake Game (needs workflow to run successfully at least once) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Zahid074/Zahid074/output/github-snake.svg" />
 </picture>
 
 <br/><br/>
@@ -175,6 +177,8 @@ Open to **internships**, **freelance full-stack work**, and **collaborative proj
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zahid-hossain-1806022b0)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/View%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammadzahidhossain)
 
 <br/><br/>
 
